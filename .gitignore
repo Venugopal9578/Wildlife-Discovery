@@ -1,0 +1,17 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+animals.db
+animals.db-journal
+
+# Environment / Sensitive
+.env
+.checkpoint
+repair_zoo.py
+
+# IDEs
+.vscode/
+.idea/
