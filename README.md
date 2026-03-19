@@ -55,6 +55,12 @@ The project uses SQLite with the following columns:
 
 ## 📊 Analysis & Visualization
 
+### 🌐 Live Dashboard
+You can view the interactive, live dashboard here:
+**[Wildlife Discovery BI Dashboard](https://lookerstudio.google.com/reporting/2da930ce-2eb1-4d7d-bac2-16902ac0df31)**
+
+![Zoo Manager Dashboard Preview](dashboard.png)
+
 ### 📓 Jupyter Notebook
 The project includes `animal_analysis.ipynb` which provides:
 - Distribution of species by class and family.
